@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+.navbar{
+    margin-top: 0%;
+    border: 0px;
+    
+}
+
+li{
+    list-style: none;
+    border: 2px solid black;
+    background-color: white;
+    
+}
+
+.container{  
+    background-color: grey;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+h1{
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+#navbar-main{
+	background-color: gray;
+}
