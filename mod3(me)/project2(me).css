@@ -1,0 +1,47 @@
+*{
+	font-family: 'Gloria Hallelujah', cursive;
+	box-sizing: border-box;
+}
+
+.navbar{
+	background-color: gray;
+	border: 3px solid black;
+	font-weight: bolder;
+}
+
+.navbar-brand h1{
+	color: black;
+	text-shadow: 1px 1px 1px white;
+}
+
+.nav-item{
+	text-align: center;
+}
+
+#collapse-main{
+	border: 2px solid black;
+	background-color: white;
+}
+
+li{
+	border-bottom: 1px solid black;
+}
+
+#main{
+	text-align: center;
+	padding-top: 3.5rem;
+}
+
+.para{
+	border: 2px solid black;
+	background-color: gray;
+	margin: 10px
+}
+
+h2{
+	text-align: center;
+}
+
+p{
+	font-size: 1.1em;
+}
